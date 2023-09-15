@@ -1,0 +1,25 @@
+.canvas {
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid white 1px;
+  border-radius: 24px;
+  display: inline-block;
+}
+
+#red {
+  background: red;
+}
+
+#teal {
+  background: teal;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
