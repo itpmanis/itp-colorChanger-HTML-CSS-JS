@@ -9,6 +9,7 @@ const body = document.querySelector("body");
 // ya ni same js ma yuta body name ko constant variable banako
 // Returns the first  element with the class "body"
 
+
 buttons.forEach((button) => {
   // sabai button haruli loop lako
   // console.log("Hi btn :", button);
